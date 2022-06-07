@@ -5,3 +5,6 @@
 | ----------- | ------ | ------ |
 | /uang       | GET    |        |
 | /uang/:id   | GET    |        |
+
+## note
+you can just run the exe file
